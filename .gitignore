@@ -28,3 +28,6 @@ app/bin/
 .vscode/settings.json
 .DS_Store
 labs/.DS_Store
+gradle/
+gradlew
+gradlew.bat
